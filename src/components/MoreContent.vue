@@ -1,5 +1,8 @@
 <template>
-  <div class="more-content">您可在此编写任意内容</div>
+  <div class="more-content">Yeah, I can't do these long drives sitting in the back seat.<\br>
+Thinking'bout that one night when the world caught fire.<\br>
+Baby, and your eyes brightened up this dark scene.<\br>
+You told me I would be fine, I called you a liar.</div>
 </template>
 
 <style lang="scss" scoped>
