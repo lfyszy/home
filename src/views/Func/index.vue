@@ -1,13 +1,13 @@
 <template>
   <!-- 功能区域 -->
   <div :class="store.mobileFuncState ? 'function mobile' : 'function'">
-    <el-row :gutter="20">
+    <!-- <el-row :gutter="20">
       <el-col :span="12">
         <div class="left">
           <Hitokoto />
           <Music v-if="playerHasId" />
         </div>
-      </el-col>
+      </el-col> -->
       <el-col :span="12">
         <div class="right cards">
           <div class="time">
