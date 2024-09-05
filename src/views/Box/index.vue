@@ -21,7 +21,7 @@
       />
     </transition>
     <div class="content">
-      可在此处自定义任意内容
+      <!-- 可在此处自定义任意内容 -->
       <TimeCapsule />
       <MoreContent />
     </div>
